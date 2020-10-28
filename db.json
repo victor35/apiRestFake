@@ -1,20 +1,24 @@
 {
-	
-	"id":1,
-	"usuario":"victor14souza@gmail.com",
-	"personagen":"Chinta"
-},
+	"usuarios": [{
 
-{
-	
-	"id":2,
-	"usuario":"wander740@gmail.com",
-	"personagen":"ryu"
-},
+			"id": 1,
+			"usuario": "victor14souza@gmail.com",
+			"personagen": "Chinta"
+		},
 
-{
-	
-	"id":3,
-	"usuario":"anjos100@gmail.com",
-	"personagen":"ryu"
+		{
+
+			"id": 2,
+			"usuario": "wander740@gmail.com",
+			"personagen": "ryu"
+		},
+
+		{
+
+			"id": 3,
+			"usuario": "anjos100@gmail.com",
+			"personagen": "ryu"
+		}
+	]
+
 }
